@@ -1,6 +1,6 @@
 # Lockdown Counter
 
-A simple Python Script to list days in the UK Lockdown
+A simple Python Script to list days in the UK COVID-19 lockdown.
 
 ## Sample output
 
