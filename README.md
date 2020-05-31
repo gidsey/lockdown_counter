@@ -8,8 +8,8 @@ A simple Python Script to list days in the UK COVID-19 lockdown.
 Welcome to Lockdown Counter
 
 UK Lockdown start: Tue 24 Mar 2020
-Today: Fri 29 May 2020
-This is day 66
+Today: Sun 31 May 2020
+This is day 69
 
 
 ---PHASE 1---
@@ -87,4 +87,7 @@ DAY 63 : Mon 25 May 2020
 DAY 64 : Tue 26 May 2020
 DAY 65 : Wed 27 May 2020
 DAY 66 : Thu 28 May 2020
+DAY 67 : Fri 29 May 2020
+DAY 68 : Sat 30 May 2020
+DAY 69 : Sun 31 May 2020
 ```

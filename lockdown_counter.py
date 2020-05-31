@@ -7,7 +7,7 @@ print('\nWelcome to Lockdown Counter\n')
 
 lockdown_start = datetime.date(2020, 3, 24)
 today = datetime.date.today()
-total_days = today - lockdown_start
+total_days = today - lockdown_start +datetime.timedelta(days=1)
 
 print("UK Lockdown start: {}".format(to_string(lockdown_start)))
 print("Today: {}".format(to_string(today)))
